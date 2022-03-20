@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Winner-shot-invertido-logo.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Winner-shot-invertido-logo@2.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Winner-shot-invertido-logo@3.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
